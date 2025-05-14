@@ -1,3 +1,5 @@
+![Toolbar Button](icon.png)
+
 # External Editor Toggle
 
 A lightweight Godot editor plugin that adds a toolbar button to toggle the external script editor setting (`text_editor/external/use_external_editor`). Features retro 8-bit pixel art icons to indicate the editor state.
