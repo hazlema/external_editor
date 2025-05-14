@@ -19,7 +19,7 @@ A lightweight Godot editor plugin that adds a toolbar button to toggle the exter
 - **Note**: Requires an external editor path to be set in **Editor > Editor Settings > Text Editor > External**.
 
 ## Screenshots
-![Toolbar Button](screenshots/toolbar-button.png)
+![Toolbar Button](toolbar-button.png)
 *Toolbar button showing the "External Editor" state with 8-bit icon.*
 
 ## Compatibility
